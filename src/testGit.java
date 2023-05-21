@@ -2,7 +2,7 @@ public class testGit {
 
     public static void main(String[] args) {
 
-        system.out.print("Hello world");
+        System.out.print("Hello world");
 
     }
 
