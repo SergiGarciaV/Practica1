@@ -1,1 +1,1 @@
-# That's only a practice project to test GitHub features
+This is just a hands-on project to test GitHub's features.
